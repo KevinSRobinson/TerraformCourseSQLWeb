@@ -232,3 +232,5 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/.vs
+/Src/TerraformCourse/.vs/TerraformCourse/FileContentIndex
